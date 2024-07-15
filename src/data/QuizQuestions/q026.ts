@@ -37,11 +37,11 @@ export const Q026: Topic = {
       question: 'Directions for replacing parts of the printer ------ in the attached operation manual.',
       choices: ['have included', 'include', 'are including', 'are included'],
       type: 'MCQs',
-      correctAnswers: ['included'],
+      correctAnswers: ['are included'],
       score: 1,
     },
     {
-      question: '------ the accounting and human resources departments are located on the second floor of the main office.(A) Both(B) Neither(C) Not only(D) Either',
+      question: '------ the accounting and human resources departments are located on the second floor of the main office.',
       choices: ['Both', 'Neither', 'Not only', 'Either'],
       type: 'MCQs',
       correctAnswers: ['Both'],
@@ -72,7 +72,7 @@ export const Q026: Topic = {
       question: 'The welcome party for Ms. Costa ------ next Friday after work in the conference room on the second floor.',
       choices: ['was held', 'holds', 'will hold', 'will be held'],
       type: 'MCQs',
-      correctAnswers: ['held'],
+      correctAnswers: ['will be held'],
       score: 1,
     },
     {

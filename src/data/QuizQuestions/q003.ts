@@ -72,7 +72,7 @@ export const Q003: Topic = {
       question: 'Since the main roads in the center of the city are congested during the summer festival, people ------ to use public transportation.',
       choices: ['encouraged', 'are encouraged', 'encourage', 'have encouraged'],
       type: 'MCQs',
-      correctAnswers: ['encouraged'],
+      correctAnswers: ['are encouraged'],
       score: 1,
     },
     {

@@ -72,7 +72,7 @@ export const Q014: Topic = {
       question: 'If a new bridge ------ in the northwest part of the city, it would have reduced traffic congestion during the commute.',
       choices: ['was built', 'built', 'had been building', 'had been built'],
       type: 'MCQs',
-      correctAnswers: ['built'],
+      correctAnswers: ['had been built'],
       score: 1,
     },
     {

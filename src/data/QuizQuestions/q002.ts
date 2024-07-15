@@ -23,7 +23,7 @@ export const Q002: Topic = {
       question: '------ a recent government survey, annual income per household last year was about the same as it was five years ago.',
       choices: ['Additionally', 'Although', 'According to', 'As soon as'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['According to'],
       score: 1,
     },
     {
@@ -44,7 +44,7 @@ export const Q002: Topic = {
       question: 'The product developed by Orange Solutions was ------ in terms of design than that of Roseville System, but the price was about the same.',
       choices: ['sophisticated', 'most sophisticated', 'more sophisticated', 'sophisticate'],
       type: 'MCQs',
-      correctAnswers: ['sophisticated'],
+      correctAnswers: ['more sophisticated'],
       score: 1,
     },
     {
@@ -72,7 +72,7 @@ export const Q002: Topic = {
       question: 'Due to poor sales, plans to close several branches in the Kansai region ------.',
       choices: ['considers', 'have been considering', 'was considered', 'are being considered'],
       type: 'MCQs',
-      correctAnswers: ['considered'],
+      correctAnswers: ['are being considered'],
       score: 1,
     },
     {

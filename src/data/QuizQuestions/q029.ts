@@ -23,7 +23,7 @@ export const Q029: Topic = {
       question: 'All the information you need to properly maintain your new machine ------ in the instruction manual.',
       choices: ['will provide', 'is provided', 'provided', 'have been provided'],
       type: 'MCQs',
-      correctAnswers: ['provided'],
+      correctAnswers: ['is provided'],
       score: 1,
     },
     {

@@ -51,7 +51,7 @@ export const Q017: Topic = {
       question: 'If that machine ------ down, we would be able to ship the order by the end of this week.',
       choices: ['does not break', 'will not have broken', 'will not break', 'did not break'],
       type: 'MCQs',
-      correctAnswers: ['break'],
+      correctAnswers: ['did not break'],
       score: 1,
     },
     {
@@ -65,7 +65,7 @@ export const Q017: Topic = {
       question: '------ the weather was nice last Saturday, there were fewer visitors to the outdoor concert than anticipated.',
       choices: ['Initially', 'Despite', 'Due to', 'Even though'],
       type: 'MCQs',
-      correctAnswers: ['though'],
+      correctAnswers: ['Even though'],
       score: 1,
     },
     {

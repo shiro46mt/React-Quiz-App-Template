@@ -37,7 +37,7 @@ export const Q011: Topic = {
       question: '------ your purchase has not arrived on the scheduled delivery date, please contact us using the form on our website.',
       choices: ['In case of', 'Unless', 'In the event that', 'As'],
       type: 'MCQs',
-      correctAnswers: ['that'],
+      correctAnswers: ['In the event that'],
       score: 1,
     },
     {
@@ -65,7 +65,7 @@ export const Q011: Topic = {
       question: 'Trattoria Gennaro has expanded its lunch menu and started a delivery service ------ increase sales.',
       choices: ['now that', 'in order to', 'purposely', 'rather'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['in order to'],
       score: 1,
     },
     {

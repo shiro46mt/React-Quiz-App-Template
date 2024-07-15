@@ -30,7 +30,7 @@ export const Q019: Topic = {
       question: 'The CEO of Stolzburg Printing Company announced at a press conference yesterday that he ------ next spring.',
       choices: ['retired', 'had retired', 'has retired', 'will retire'],
       type: 'MCQs',
-      correctAnswers: ['retire'],
+      correctAnswers: ['will retire'],
       score: 1,
     },
     {
@@ -51,14 +51,14 @@ export const Q019: Topic = {
       question: 'Please be advised that any changes to meeting room reservations must be made at least one day ------ the date of use.',
       choices: ['so that', 'beforehand', 'prior to', 'whenever'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['prior to'],
       score: 1,
     },
     {
       question: 'New measures that will reduce commuting time by car ------.',
       choices: ['are being considered', 'to be considered', 'to conder', 'considering'],
       type: 'MCQs',
-      correctAnswers: ['considered'],
+      correctAnswers: ['are being considered'],
       score: 1,
     },
     {

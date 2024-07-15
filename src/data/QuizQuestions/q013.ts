@@ -16,7 +16,7 @@ export const Q013: Topic = {
       question: 'Various driving tests are ------ in several countries for the practical implementation of automated driving.',
       choices: ['conducting', 'being conducted', 'conduct', 'conducts'],
       type: 'MCQs',
-      correctAnswers: ['conducted'],
+      correctAnswers: ['being conducted'],
       score: 1,
     },
     {

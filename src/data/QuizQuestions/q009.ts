@@ -23,14 +23,14 @@ export const Q009: Topic = {
       question: 'By the time Mr. Chang retires next year, he ------ for Delvan Corporation as a mechanical engineer for 15 years.',
       choices: ['has worked', 'had been working', 'will have worked', 'worked'],
       type: 'MCQs',
-      correctAnswers: ['worked'],
+      correctAnswers: ['will have worked'],
       score: 1,
     },
     {
       question: '------ the human resources director, it seems to take more than three days to look over all the applications.',
       choices: ['Instead of', 'According to', 'In addition to', 'Prior to'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['According to'],
       score: 1,
     },
     {

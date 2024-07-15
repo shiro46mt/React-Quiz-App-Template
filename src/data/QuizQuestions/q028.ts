@@ -16,14 +16,14 @@ export const Q028: Topic = {
       question: 'Please submit your survey form as soon as possible ------ your responses can be included in the survey results.',
       choices: ['even if', 'therefore', 'so that', 'because of'],
       type: 'MCQs',
-      correctAnswers: ['that'],
+      correctAnswers: ['so that'],
       score: 1,
     },
     {
       question: 'Mougey Corporation ------ a new personnel system for all employees by the end of this fall.',
       choices: ['has introduced', 'will be introducing', 'was introducing', 'will be introduced'],
       type: 'MCQs',
-      correctAnswers: ['introducing'],
+      correctAnswers: ['will be introducing'],
       score: 1,
     },
     {
@@ -72,7 +72,7 @@ export const Q028: Topic = {
       question: 'Advances in communication technology allow workers to work from home ------.',
       choices: ['easier', 'ease', 'more easily', 'easiest'],
       type: 'MCQs',
-      correctAnswers: ['easily'],
+      correctAnswers: ['more easily'],
       score: 1,
     },
     {

@@ -58,7 +58,7 @@ export const Q025: Topic = {
       question: '------ its unique technology, Lederer Systems has maintained its position as an industry leader for many years.',
       choices: ['Nevertheless', 'Unless', 'Consequently', 'Thanks to'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['Thanks to'],
       score: 1,
     },
     {

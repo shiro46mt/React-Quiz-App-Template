@@ -23,7 +23,7 @@ export const Q020: Topic = {
       question: '------ install a bus stop on the sidewalk, an application for a building permit must be submitted to the city.',
       choices: ['For', 'On behalf of', 'Additionally', 'In order to'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['In order to'],
       score: 1,
     },
     {
@@ -44,7 +44,7 @@ export const Q020: Topic = {
       question: 'The Mogen Modern Museum requires that the use of cell phones ------ to designated areas within the museum.',
       choices: ['is limited', 'has limited', 'be limited', 'limit'],
       type: 'MCQs',
-      correctAnswers: ['limited'],
+      correctAnswers: ['be limited'],
       score: 1,
     },
     {
@@ -58,7 +58,7 @@ export const Q020: Topic = {
       question: 'Our team is ------ surveying visitors to the event that will be held this weekend at Riverside Park.',
       choices: ['instead of', 'along with', 'in place of', 'in charge of'],
       type: 'MCQs',
-      correctAnswers: ['of'],
+      correctAnswers: ['in charge of'],
       score: 1,
     },
     {
@@ -79,7 +79,7 @@ export const Q020: Topic = {
       question: 'New employees at Wagner Corporation are invited ------ a welcome party held on the second floor of its headquarters.',
       choices: ['attend', 'attending', 'to attend', 'attended'],
       type: 'MCQs',
-      correctAnswers: ['attend'],
+      correctAnswers: ['to attend'],
       score: 1,
     },
   ],

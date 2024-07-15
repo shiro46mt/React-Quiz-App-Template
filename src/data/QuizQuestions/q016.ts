@@ -58,7 +58,7 @@ export const Q016: Topic = {
       question: 'Kevin Miyata ------ director of marketing because of his past performance recognized by the board of directors.',
       choices: ['appointing', 'was appointed', 'to be appointed', 'appoint'],
       type: 'MCQs',
-      correctAnswers: ['appointed'],
+      correctAnswers: ['was appointed'],
       score: 1,
     },
     {

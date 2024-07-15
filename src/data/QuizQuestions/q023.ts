@@ -37,7 +37,7 @@ export const Q023: Topic = {
       question: 'If the plan had been thoroughly reviewed with his colleagues, Mr. Batista would not ------ with such difficulties.',
       choices: ['having faced', 'had been faced', 'have faced', 'have been faced'],
       type: 'MCQs',
-      correctAnswers: ['faced'],
+      correctAnswers: ['have been faced'],
       score: 1,
     },
     {
@@ -79,7 +79,7 @@ export const Q023: Topic = {
       question: 'To participate in this weekend’s Adventure Tour, you must be ------ 12 years old.',
       choices: ['above all', 'at least', 'so far', 'at the latest'],
       type: 'MCQs',
-      correctAnswers: ['least'],
+      correctAnswers: ['at least'],
       score: 1,
     },
   ],

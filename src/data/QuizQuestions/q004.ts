@@ -44,7 +44,7 @@ export const Q004: Topic = {
       question: '------ the building application has been approved, construction can begin on the KEP Building.',
       choices: ['Upon', 'Now that', 'Afterward', 'Although'],
       type: 'MCQs',
-      correctAnswers: ['that'],
+      correctAnswers: ['Now that'],
       score: 1,
     },
     {

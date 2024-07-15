@@ -37,7 +37,7 @@ export const Q031: Topic = {
       question: 'Ryu Garcia’s latest novel is his ------ book to date and has been translated into several languages.',
       choices: ['popularity', 'most popularly', 'more popular', 'most popular'],
       type: 'MCQs',
-      correctAnswers: ['popular'],
+      correctAnswers: ['most popular'],
       score: 1,
     },
     {
@@ -51,7 +51,7 @@ export const Q031: Topic = {
       question: 'Due to Ms. Jung’s urgent business trip, tomorrow’s meeting ------ for a later date.',
       choices: ['reschedules', 'will be rescheduled', 'has rescheduled', 'will reschedule'],
       type: 'MCQs',
-      correctAnswers: ['rescheduled'],
+      correctAnswers: ['will be rescheduled'],
       score: 1,
     },
     {

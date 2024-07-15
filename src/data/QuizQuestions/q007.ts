@@ -23,7 +23,7 @@ export const Q007: Topic = {
       question: 'Refreshments, including sweets and beverages, ------ at Hansen’s retirement party next Friday.',
       choices: ['have served', 'served', 'will be serving', 'will be served'],
       type: 'MCQs',
-      correctAnswers: ['served'],
+      correctAnswers: ['will be served'],
       score: 1,
     },
     {
@@ -79,7 +79,7 @@ export const Q007: Topic = {
       question: 'As a result of streamlining its distribution channels, Amanda International Foods has ------ the big players in the food industry.',
       choices: ['signed up for', 'carried out', 'filled out', 'caught up with'],
       type: 'MCQs',
-      correctAnswers: ['with'],
+      correctAnswers: ['caught up with'],
       score: 1,
     },
   ],

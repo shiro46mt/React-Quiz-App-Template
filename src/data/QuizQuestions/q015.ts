@@ -16,7 +16,7 @@ export const Q015: Topic = {
       question: 'It is said that older people tend ------ more TV than younger people.',
       choices: ['watching', 'watch', 'to be watched', 'to watch'],
       type: 'MCQs',
-      correctAnswers: ['watch'],
+      correctAnswers: ['to watch'],
       score: 1,
     },
     {
@@ -30,7 +30,7 @@ export const Q015: Topic = {
       question: '------ the books Ｍr. Kamau ordered arrive at the store, please give him a call.',
       choices: ['Following', 'Immediately', 'Regarding', 'As soon as'],
       type: 'MCQs',
-      correctAnswers: ['as'],
+      correctAnswers: ['As soon as'],
       score: 1,
     },
     {

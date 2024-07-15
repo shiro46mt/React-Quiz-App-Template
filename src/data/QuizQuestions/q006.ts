@@ -16,7 +16,7 @@ export const Q006: Topic = {
       question: 'Dela Device emphasized the ease of use ------ the durability of its products at the New Tech Convention.',
       choices: ['in addition', 'equally', 'even though', 'as well as'],
       type: 'MCQs',
-      correctAnswers: ['as'],
+      correctAnswers: ['as well as'],
       score: 1,
     },
     {

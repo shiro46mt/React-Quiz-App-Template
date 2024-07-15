@@ -30,7 +30,7 @@ export const Q030: Topic = {
       question: 'After a thorough review, ------ minor changes were made to the building purchase agreement.',
       choices: ['every', 'much', 'a few', 'each'],
       type: 'MCQs',
-      correctAnswers: ['few'],
+      correctAnswers: ['a few'],
       score: 1,
     },
     {
@@ -44,7 +44,7 @@ export const Q030: Topic = {
       question: '------ the renovation of the second floor has been completed, the Human Resources Department can return to its original workplace.',
       choices: ['Now that', 'Consequently', 'Due to', 'Regarding'],
       type: 'MCQs',
-      correctAnswers: ['that'],
+      correctAnswers: ['Now that'],
       score: 1,
     },
     {

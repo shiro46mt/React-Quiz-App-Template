@@ -58,14 +58,14 @@ export const Q027: Topic = {
       question: 'If it had not rained, the outdoor performances by local artists would not ------.',
       choices: ['postponed', 'have postponed', 'have been postponed', 'had been postponed'],
       type: 'MCQs',
-      correctAnswers: ['postponed'],
+      correctAnswers: ['have been postponed'],
       score: 1,
     },
     {
       question: '------ increasing the sales staff, we were able to improve sales by approximately 20% this year.',
       choices: ['Contrary to', 'On behalf of', 'As a result of', 'Regardless of'],
       type: 'MCQs',
-      correctAnswers: ['of'],
+      correctAnswers: ['As a result of'],
       score: 1,
     },
     {

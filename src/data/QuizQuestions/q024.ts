@@ -44,7 +44,7 @@ export const Q024: Topic = {
       question: '------ hundreds of medical professionals at a convention in Seoul last week.',
       choices: ['A few', 'Some of the', 'Having had', 'There were'],
       type: 'MCQs',
-      correctAnswers: ['were'],
+      correctAnswers: ['There were'],
       score: 1,
     },
     {
@@ -58,7 +58,7 @@ export const Q024: Topic = {
       question: 'Please submit your summer vacation schedule by the end of this week ------ your preferred vacation dates can be approved.',
       choices: ['due to', 'so that', 'despite', 'therefore'],
       type: 'MCQs',
-      correctAnswers: ['that'],
+      correctAnswers: ['so that'],
       score: 1,
     },
     {
@@ -79,7 +79,7 @@ export const Q024: Topic = {
       question: 'Mr. Toyota in the public relations department has a wealth of ideas ------ a great ability to put them into action.',
       choices: ['in addition to', 'as long as', 'furthermore', 'because'],
       type: 'MCQs',
-      correctAnswers: ['to'],
+      correctAnswers: ['in addition to'],
       score: 1,
     },
   ],

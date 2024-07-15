@@ -23,7 +23,7 @@ export const Q012: Topic = {
       question: 'Ms. Choi ------ the quality improvement team at the plant for the past two years.',
       choices: ['will oversee', 'has been overseen', 'oversees', 'has overseen'],
       type: 'MCQs',
-      correctAnswers: ['overseen'],
+      correctAnswers: ['has overseen'],
       score: 1,
     },
     {
@@ -44,14 +44,14 @@ export const Q012: Topic = {
       question: 'The upcoming walking tour is open to everyone, ------ age, and those who wish to participate should register on the tour website.',
       choices: ['subsequent to', 'in keeping with', 'in place of', 'regardless of'],
       type: 'MCQs',
-      correctAnswers: ['of'],
+      correctAnswers: ['regardless of'],
       score: 1,
     },
     {
       question: 'Reymond Elevator Group asks that elevators ------ at least once every two months.',
       choices: ['inspect', 'are inspected', 'will inspect', 'be inspected'],
       type: 'MCQs',
-      correctAnswers: ['inspected'],
+      correctAnswers: ['be inspected'],
       score: 1,
     },
     {

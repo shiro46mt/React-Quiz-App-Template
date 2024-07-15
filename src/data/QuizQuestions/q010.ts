@@ -51,7 +51,7 @@ export const Q010: Topic = {
       question: 'It is widely believed that the quality of sleep, ------ eating habits, has a significant impact on health.',
       choices: ['on behalf of', 'along with', 'in charge of', 'by means of'],
       type: 'MCQs',
-      correctAnswers: ['with'],
+      correctAnswers: ['along with'],
       score: 1,
     },
     {
