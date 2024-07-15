@@ -69,7 +69,7 @@ export const Q004: Topic = {
       score: 1,
     },
     {
-      question: 'As a result of long------term requests from local residents, construction of the sports center will ------ in June.',
+      question: 'As a result of long-term requests from local residents, construction of the sports center will ------ in June.',
       choices: ['commence', 'modify', 'predict', 'establish'],
       type: 'MCQs',
       correctAnswers: ['commence'],

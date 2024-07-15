@@ -69,7 +69,7 @@ export const Q007: Topic = {
       score: 1,
     },
     {
-      question: '------ part------time employee is required to enter working hours into the attendance system every day.　',
+      question: '------ part-time employee is required to enter working hours into the attendance system every day.　',
       choices: ['All', 'A lot of', 'Most', 'Each'],
       type: 'MCQs',
       correctAnswers: ['Each'],

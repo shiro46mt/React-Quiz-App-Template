@@ -20,7 +20,7 @@ export const Q005: Topic = {
       score: 1,
     },
     {
-      question: 'Most customers ------ have purchased the tablets developed by Protech are very satisfied with the long------lasting batteries.',
+      question: 'Most customers ------ have purchased the tablets developed by Protech are very satisfied with the long-lasting batteries.',
       choices: ['which', 'whose', 'who', 'what'],
       type: 'MCQs',
       correctAnswers: ['who'],

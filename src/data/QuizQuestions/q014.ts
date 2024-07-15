@@ -27,7 +27,7 @@ export const Q014: Topic = {
       score: 1,
     },
     {
-      question: 'For a ------ time only, Abilos Fitness Gym is offering a free one------month trial for new members.',
+      question: 'For a ------ time only, Abilos Fitness Gym is offering a free one-month trial for new members.',
       choices: ['limitedly', 'limited', 'limitation', 'limiting'],
       type: 'MCQs',
       correctAnswers: ['limited'],

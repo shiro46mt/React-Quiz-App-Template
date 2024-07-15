@@ -55,7 +55,7 @@ export const Q018: Topic = {
       score: 1,
     },
     {
-      question: 'This intensive 5------day course on enhancing productivity will surely help you ------ the efficiency of your daily operations.',
+      question: 'This intensive 5-day course on enhancing productivity will surely help you ------ the efficiency of your daily operations.',
       choices: ['improving', 'improve', 'improved', 'improves'],
       type: 'MCQs',
       correctAnswers: ['improve'],

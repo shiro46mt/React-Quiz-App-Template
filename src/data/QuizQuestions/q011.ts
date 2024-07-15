@@ -20,7 +20,7 @@ export const Q011: Topic = {
       score: 1,
     },
     {
-      question: 'First West Bank offers low------interest mortgages online to customers ------ the country.',
+      question: 'First West Bank offers low-interest mortgages online to customers ------ the country.',
       choices: ['throughout', 'among', 'during', 'onto'],
       type: 'MCQs',
       correctAnswers: ['throughout'],
@@ -55,7 +55,7 @@ export const Q011: Topic = {
       score: 1,
     },
     {
-      question: 'Machines purchased from us come with a free one------year repair ------ from the date of purchase.',
+      question: 'Machines purchased from us come with a free one-year repair ------ from the date of purchase.',
       choices: ['excerpt', 'warranty', 'invitation', 'connection'],
       type: 'MCQs',
       correctAnswers: ['warranty'],

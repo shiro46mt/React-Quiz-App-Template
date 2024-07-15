@@ -76,7 +76,7 @@ export const Q016: Topic = {
       score: 1,
     },
     {
-      question: 'Enzo Botanical Garden is ------ walking distance of the South Hillwood subway station on the East------West Line.',
+      question: 'Enzo Botanical Garden is ------ walking distance of the South Hillwood subway station on the East-West Line.',
       choices: ['next to', 'through', 'within', 'from'],
       type: 'MCQs',
       correctAnswers: ['within'],

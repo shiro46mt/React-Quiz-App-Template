@@ -27,7 +27,7 @@ export const Q022: Topic = {
       score: 1,
     },
     {
-      question: 'Ms. Bai ------ her part------time employment contract with the bookstore where she is currently working for 12 months.',
+      question: 'Ms. Bai ------ her part-time employment contract with the bookstore where she is currently working for 12 months.',
       choices: ['extend', 'has extended', 'extending', 'will be extended'],
       type: 'MCQs',
       correctAnswers: ['has extended'],

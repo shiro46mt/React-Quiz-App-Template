@@ -76,7 +76,7 @@ export const Q026: Topic = {
       score: 1,
     },
     {
-      question: 'The latest version of the long------awaited accounting software will ------ be released tomorrow.',
+      question: 'The latest version of the long-awaited accounting software will ------ be released tomorrow.',
       choices: ['finalize', 'finally', 'final', 'finalizing'],
       type: 'MCQs',
       correctAnswers: ['finally'],

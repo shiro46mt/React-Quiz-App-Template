@@ -55,7 +55,7 @@ export const Q028: Topic = {
       score: 1,
     },
     {
-      question: '------ rooms in our hotel have Wi------Fi access and are equipped with a charger for smartphones.',
+      question: '------ rooms in our hotel have Wi-Fi access and are equipped with a charger for smartphones.',
       choices: ['Every', 'Each', 'Almost', 'All'],
       type: 'MCQs',
       correctAnswers: ['All'],
@@ -76,7 +76,7 @@ export const Q028: Topic = {
       score: 1,
     },
     {
-      question: '------ being lightweight, this laptop has a longer------lasting battery than other models.',
+      question: '------ being lightweight, this laptop has a longer-lasting battery than other models.',
       choices: ['In addition', 'As well', 'Besides', 'Now that'],
       type: 'MCQs',
       correctAnswers: ['Besides'],

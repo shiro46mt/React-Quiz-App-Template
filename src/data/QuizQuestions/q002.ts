@@ -34,7 +34,7 @@ export const Q002: Topic = {
       score: 1,
     },
     {
-      question: 'A list of full------time job ------ at Canterbury Technology will be posted on the website tomorrow afternoon.',
+      question: 'A list of full-time job ------ at Canterbury Technology will be posted on the website tomorrow afternoon.',
       choices: ['open', 'openings', 'openly', 'opened'],
       type: 'MCQs',
       correctAnswers: ['openings'],
@@ -76,7 +76,7 @@ export const Q002: Topic = {
       score: 1,
     },
     {
-      question: 'With the implementation of a state------of------the------art customer management system, Taylor Bay Hotel has ------improved customer satisfaction.',
+      question: 'With the implementation of a state-of-the-art customer management system, Taylor Bay Hotel has ------improved customer satisfaction.',
       choices: ['substantial', 'substantiate', 'substantiating', 'substantially'],
       type: 'MCQs',
       correctAnswers: ['substantially（大いに）'],
