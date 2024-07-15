@@ -2,7 +2,6 @@ import { Dispatch, SetStateAction } from 'react'
 import { Question } from '../data/QuizQuestions'
 
 export enum ScreenTypes {
-  SplashScreen,
   QuizTopicsScreen,
   QuizDetailsScreen,
   QuestionScreen,

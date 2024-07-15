@@ -7,7 +7,6 @@ import QuestionScreen from '../QuestionScreen'
 import QuizDetailsScreen from '../QuizDetailsScreen'
 import QuizTopicsScreen from '../QuizTopicsScreen'
 import ResultScreen from '../ResultScreen'
-import SplashScreen from '../SplashScreen'
 
 function Main() {
   const { currentScreen, setCurrentScreen } = useQuiz()
@@ -19,14 +18,13 @@ function Main() {
   }, [setCurrentScreen])
 
   const screenComponents = {
-    [ScreenTypes.SplashScreen]: <SplashScreen />,
     [ScreenTypes.QuizTopicsScreen]: <QuizTopicsScreen />,
     [ScreenTypes.QuizDetailsScreen]: <QuizDetailsScreen />,
     [ScreenTypes.QuestionScreen]: <QuestionScreen />,
     [ScreenTypes.ResultScreen]: <ResultScreen />,
   }
 
-  const ComponentToRender = screenComponents[currentScreen] || <SplashScreen />
+  const ComponentToRender = screenComponents[currentScreen] || <QuizTopicsScreen />
 
   return <>{ComponentToRender}</>
 }

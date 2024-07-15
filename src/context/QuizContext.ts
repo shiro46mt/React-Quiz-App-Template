@@ -2,7 +2,7 @@ import { createContext, useContext } from 'react'
 import { QuizContextTypes, ScreenTypes } from '../types'
 
 export const initialState: QuizContextTypes = {
-  currentScreen: ScreenTypes.SplashScreen,
+  currentScreen: ScreenTypes.QuizTopicsScreen,
   setCurrentScreen: () => {},
   quizTopic: 'React',
   selectQuizTopic: () => {},
