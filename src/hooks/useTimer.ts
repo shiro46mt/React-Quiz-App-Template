@@ -13,7 +13,7 @@ const useTimer = (
   showResultModal: boolean
 ) => {
   useEffect(() => {
-    if (timer <= 0) {
+    if (timer < 0) {
       const timeTaken = quizDetails.totalTime
       setEndTime(timeTaken)
       setShowTimerModal(true)
@@ -24,7 +24,7 @@ const useTimer = (
   useEffect(() => {
     if (!showResultModal) {
       const countTimer = setTimeout(() => {
-        setTimer((prevTimer) => prevTimer - 1)
+        setTimer((prevTimer) => prevTimer + 1)
       }, 1000)
       return () => clearTimeout(countTimer)
     }

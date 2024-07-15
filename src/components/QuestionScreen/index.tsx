@@ -96,7 +96,7 @@ const QuestionScreen: FC = () => {
       setActiveQuestion((prev) => prev + 1)
     } else {
       // how long does it take to finish the quiz
-      const timeTaken = quizDetails.totalTime - timer
+      const timeTaken = timer
       setEndTime(timeTaken)
       setShowResultModal(true)
     }

@@ -49,6 +49,9 @@ const ResultOverview: FC<ResultOverviewProps> = ({ result }) => {
         {quizDetails.totalScore}
       </p>
       <p>
+        Total time:<HighlightedText> {convertSeconds(quizDetails.totalTime)} </HighlightedText>
+      </p>
+      <p>
         Time Spent:<HighlightedText> {convertSeconds(endTime)} </HighlightedText>
       </p>
       <p>
