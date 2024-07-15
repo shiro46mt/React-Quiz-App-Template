@@ -1,7 +1,7 @@
 import { FC, useEffect, useState } from 'react'
 import styled from 'styled-components'
 
-import { AppLogo, CheckIcon, Next, TimerIcon } from '../../config/icons'
+import { CheckIcon, Next, TimerIcon } from '../../config/icons'
 import { useQuiz } from '../../context/QuizContext'
 import { useTimer } from '../../hooks'
 import { device } from '../../styles/BreakPoints'
@@ -33,19 +33,6 @@ const QuizContainer = styled.div<{ selectedAnswer: boolean }>`
             selectedAnswer ? `${theme.colors.buttonText}` : `${theme.colors.darkGray}`};
         }
       }
-    }
-  }
-`
-
-const LogoContainer = styled.div`
-  margin-top: 50px;
-  margin-bottom: 50px;
-  @media ${device.md} {
-    margin-top: 10px;
-    margin-bottom: 20px;
-    svg {
-      width: 185px;
-      height: 80px;
     }
   }
 `
@@ -140,9 +127,6 @@ const QuestionScreen: FC = () => {
 
   return (
     <PageCenter>
-      <LogoContainer>
-        <AppLogo />
-      </LogoContainer>
       <QuizContainer selectedAnswer={selectedAnswer.length > 0}>
         <QuizHeader
           activeQuestion={activeQuestion}

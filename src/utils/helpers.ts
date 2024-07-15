@@ -18,19 +18,19 @@ export const convertSeconds = (seconds: number): string => {
   const minutes = Math.floor((seconds % 3600) / 60)
   const remainingSeconds = seconds % 60
 
-  const hourString = hours > 0 ? `${hours} hour${hours > 1 ? 's' : ''}` : ''
-  const minuteString = minutes > 0 ? `${minutes} minute${minutes > 1 ? 's' : ''}` : ''
+  const hourString = hours > 0 ? `${hours} h` : ''
+  const minuteString = minutes > 0 ? `${minutes} min` : ''
   const secondString =
     remainingSeconds > 0
-      ? `${remainingSeconds} second${remainingSeconds > 1 ? 's' : ''}`
+      ? `${remainingSeconds} sec`
       : ''
 
   if (hours > 0) {
-    return `${hourString} : ${minuteString || '0 minute'} ${
-      secondString && `: ${secondString}`
+    return `${hourString} ${minuteString || '0 min.'} ${
+      secondString && ` ${secondString}`
     }`
   } else if (!hours && minutes > 0) {
-    return `${minuteString} ${secondString && `: ${secondString}`}`
+    return `${minuteString} ${secondString && ` ${secondString}`}`
   }
 
   return secondString

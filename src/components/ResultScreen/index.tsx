@@ -1,10 +1,10 @@
 import { FC } from 'react'
 import styled, { css } from 'styled-components'
 
-import { AppLogo, Refresh } from '../../config/icons'
+import { Refresh } from '../../config/icons'
 import { useQuiz } from '../../context/QuizContext'
 import { device } from '../../styles/BreakPoints'
-import { Flex, LogoContainer, ResizableBox } from '../../styles/Global'
+import { Flex, ResizableBox } from '../../styles/Global'
 import { refreshPage } from '../../utils/helpers'
 
 import Button from '../ui/Button'
@@ -127,9 +127,6 @@ const ResultScreen: FC = () => {
 
   return (
     <ResultScreenContainer>
-      <LogoContainer>
-        <AppLogo />
-      </LogoContainer>
       <InnerContainer>
         <ResultOverview result={result} />
         {result.map(
