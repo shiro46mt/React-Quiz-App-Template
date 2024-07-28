@@ -18,6 +18,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['either'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q211',
     },
     {
       question: '------ of the travel magazines published by Paterson Magazine Corporation are ordered online.',
@@ -25,6 +26,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['Most'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q212',
     },
     {
       question: 'Ms. Bai ------ her part-time employment contract with the bookstore where she is currently working for 12 months.',
@@ -32,6 +34,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['has extended'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q213',
     },
     {
       question: 'Construction is scheduled for tomorrow in the Hudson district on Route 103, so ------ are encouraged to bypass that area.',
@@ -39,6 +42,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['commuters'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q214',
     },
     {
       question: 'We will be meeting tomorrow with the keynote speaker ------ spoke at the renewable energy conference yesterday.',
@@ -46,6 +50,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['who'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q215',
     },
     {
       question: 'The CEO mentioned ------ to build a manufacturing plant in Southeast Asia, but it is expected to take some time.',
@@ -53,6 +58,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['plans'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q216',
     },
     {
       question: 'The North Forest Inn offers laptop computers for guests to borrow and also provides free Internet access service in ------ room.',
@@ -60,6 +66,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['each'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q217',
     },
     {
       question: 'All prototypes must undergo ------ tests before proceeding to the next stage of development.',
@@ -67,6 +74,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['preliminary'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q218',
     },
     {
       question: 'After thorough review, the budget for next year’s product development has been divided ------ among the three projects.',
@@ -74,6 +82,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['evenly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q219',
     },
     {
       question: 'Users of the DXL303 monitor can adjust the brightness of the monitor according to ------ preferences.',
@@ -81,6 +90,7 @@ export const Q022: Topic = {
       type: 'MCQs',
       correctAnswers: ['their'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題211-220/#q220',
     },
   ],
 }

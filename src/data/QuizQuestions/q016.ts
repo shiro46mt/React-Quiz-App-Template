@@ -18,6 +18,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['Unless'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q151',
     },
     {
       question: 'The preservation of the ------ building is being actively discussed at a Keegan City Commission meeting set up last month.',
@@ -25,6 +26,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['historic'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q152',
     },
     {
       question: 'By the end of next month, Taiyo Financial Group must decide ------ it will open a branch in Hong Kong.',
@@ -32,6 +34,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['whether'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q153',
     },
     {
       question: 'Ms. Singh left the office ------ after the monthly meeting to go on a business trip to Chicago.',
@@ -39,6 +42,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['immediately'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q154',
     },
     {
       question: 'As a ------ of our appreciation, we will be giving away free towels at this weekend’s sale.',
@@ -46,6 +50,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['token'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q155',
     },
     {
       question: 'Arika Kitchen has earned a reputation for ------ and creative cuisine using ingredients from around the world.',
@@ -53,6 +58,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['innovative'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q156',
     },
     {
       question: 'Kevin Miyata ------ director of marketing because of his past performance recognized by the board of directors.',
@@ -60,6 +66,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['was appointed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q157',
     },
     {
       question: 'Merrywood Supermarket introduced a loyalty points system last year to ------ customer satisfaction.',
@@ -67,6 +74,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['enhance'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q158',
     },
     {
       question: 'Visitors to the factory are asked to borrow ------ glasses from the reception desk and wear them at all times.',
@@ -74,6 +82,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['protective'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q159',
     },
     {
       question: 'Enzo Botanical Garden is ------ walking distance of the South Hillwood subway station on the East-West Line.',
@@ -81,6 +90,7 @@ export const Q016: Topic = {
       type: 'MCQs',
       correctAnswers: ['within'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題151-160/#q160',
     },
   ],
 }

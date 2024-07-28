@@ -47,6 +47,7 @@ export type Question = {
   score: number
   code?: string
   image?: string
+  commentUrl?: string
 }
 
 export type Topic = {

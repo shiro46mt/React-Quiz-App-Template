@@ -136,6 +136,7 @@ const ResultScreen: FC = () => {
               choices,
               code,
               image,
+              commentUrl,
               correctAnswers,
               selectedAnswer,
               score,
@@ -173,6 +174,9 @@ const ResultScreen: FC = () => {
                     {/* only show if the answer is wrong */}
                     {!isMatch && (
                       <RightAnswer correctAnswers={correctAnswers} choices={choices} />
+                    )}
+                    {commentUrl && !isMatch && (
+                      <a href={commentUrl} rel='noopener noreferrer' target='_blank'>{ "解説ページ" }</a>
                     )}
                   </div>
                 </ResizableBox>

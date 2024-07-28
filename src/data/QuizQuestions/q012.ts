@@ -18,6 +18,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['increasingly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q111',
     },
     {
       question: 'Ms. Choi ------ the quality improvement team at the plant for the past two years.',
@@ -25,6 +26,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['has overseen'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q112',
     },
     {
       question: '------ approval from the immediate supervisor is required for any business travel involving an overnight stay.',
@@ -32,6 +34,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['Prior'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q113',
     },
     {
       question: 'You can view your credit card statement and points earned by logging into ------ account.',
@@ -39,6 +42,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['your'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q114',
     },
     {
       question: 'The upcoming walking tour is open to everyone, ------ age, and those who wish to participate should register on the tour website.',
@@ -46,6 +50,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['regardless of'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q115',
     },
     {
       question: 'Reymond Elevator Group asks that elevators ------ at least once every two months.',
@@ -53,6 +58,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['be inspected'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q116',
     },
     {
       question: 'Before ------ for a mortgage, you should consider the loan terms of several banks.',
@@ -60,6 +66,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['applying'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q117',
     },
     {
       question: '------ change your booked bus, please contact the reservation center phone number listed on the back of your ticket.',
@@ -67,6 +74,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['To'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q118',
     },
     {
       question: 'The introduction of practical robots is ------ anticipated to make up for labor shortages in the nursing care industry.',
@@ -74,6 +82,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['highly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q119',
     },
     {
       question: 'Some economic experts are ------ that wheat prices will rise next year, affecting household budgets.',
@@ -81,6 +90,7 @@ export const Q012: Topic = {
       type: 'MCQs',
       correctAnswers: ['predicting'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題111-120/#q120',
     },
   ],
 }

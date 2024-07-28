@@ -18,6 +18,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['much'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q171',
     },
     {
       question: 'Ms. Gupta plans to meet with a ------ from the South Bayside Inn at the International Tourism Conference next month.',
@@ -25,6 +26,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['representative'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q172',
     },
     {
       question: 'To ------ a parking permit, employees need to submit a designated application to Ms. Reston by the end of the month.',
@@ -32,6 +34,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['obtain'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q173',
     },
     {
       question: '------, Ms. Lawrence was unable to catch her scheduled flight due to a lengthy meeting at the headquarters.',
@@ -39,6 +42,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['Unfortunately'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q174',
     },
     {
       question: 'The parking lot is ------ monitored by security cameras 24 hours a day to prevent theft and accidents.',
@@ -46,6 +50,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['continuously'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q175',
     },
     {
       question: 'If you would like to ------ your reservation, please visit Travel First Group’s reservation site.',
@@ -53,6 +58,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['confirm'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q176',
     },
     {
       question: 'This intensive 5-day course on enhancing productivity will surely help you ------ the efficiency of your daily operations.',
@@ -60,6 +66,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['improve'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q177',
     },
     {
       question: '------ the training period at the headquarters is over, new employees will be assigned to their place of work.',
@@ -67,6 +74,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['Once'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q178',
     },
     {
       question: 'Somerville Furniture has been in business for over 20 years and has ------ increased sales each year.',
@@ -74,6 +82,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['consistently'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q179',
     },
     {
       question: 'Daily tours of the chocolate factory ------ at 9:00 a.m. in the waiting area next to the reception desk at the main gate.',
@@ -81,6 +90,7 @@ export const Q018: Topic = {
       type: 'MCQs',
       correctAnswers: ['commence'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題171-180/#q180',
     },
   ],
 }

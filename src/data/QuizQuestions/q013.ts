@@ -18,6 +18,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['being conducted'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q121',
     },
     {
       question: 'Greenleaf Gardening sells a ------ range of flower seeds in its store as well as online.',
@@ -25,6 +26,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['broad'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q122',
     },
     {
       question: 'After working for three years at a financial institution in Hong Kong, Ms. Fujita ------ to Tokyo and established a financial consulting firm.',
@@ -32,6 +34,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['returned'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q123',
     },
     {
       question: 'Due to a significant increase in employees this year, Peach Design Systems will need to move to a ------ larger office.',
@@ -39,6 +42,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['much'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q124',
     },
     {
       question: 'Given that we were able to develop a competitive application, hiring several talented programmers was ------ a success.',
@@ -46,6 +50,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['clearly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q125',
     },
     {
       question: 'The Koizumi Municipal Library will be closed for renovations ------ on Wednesday, June 1.',
@@ -53,6 +58,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['beginning'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q126',
     },
     {
       question: 'Entering the order number of an item into the tracking system will ------ users to track their packages.',
@@ -60,6 +66,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['allow'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q127',
     },
     {
       question: 'Ms. Tanaka was able to get a position as an accounting assistant that became available last week in a ------ manner.',
@@ -67,6 +74,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['timely'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q128',
     },
     {
       question: 'The social media product promotion organized by Mr. Stone has been one of the most successful advertising campaigns ------.',
@@ -74,6 +82,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['ever'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q129',
     },
     {
       question: 'MT Rental Company hired an ------ programmer to add new features to its meeting room reservation management system.',
@@ -81,6 +90,7 @@ export const Q013: Topic = {
       type: 'MCQs',
       correctAnswers: ['experienced'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題121-130/#q130',
     },
   ],
 }

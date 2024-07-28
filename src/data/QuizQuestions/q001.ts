@@ -18,6 +18,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['substantially'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q001',
     },
     {
       question: 'In order to meet production targets, inspection equipment that breaks down easily should be checked on a ------ basis.',
@@ -25,6 +26,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['regular'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q002',
     },
     {
       question: '------ you experience any problems with the building’s equipment, you should contact the property manager.',
@@ -32,6 +34,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['If'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q003',
     },
     {
       question: 'Employees must park in the ------ parking lot until the renovation of the company building is completed.',
@@ -39,6 +42,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['temporary'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q004',
     },
     {
       question: 'Although the assembly machine has been used for more than 20 years, it is still ------.',
@@ -46,6 +50,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['operational'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q005',
     },
     {
       question: 'Medical ------ are supposed to investigate the characteristics and effects of newly developed materials.',
@@ -53,6 +58,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['experts'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q006',
     },
     {
       question: 'Darwin Construction, renowned for its ------ designs, has won the bid for the Dalton City Library.',
@@ -60,6 +66,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['innovative'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q007',
     },
     {
       question: 'Please make sure that ------ address is correct in the designated section of the order form.',
@@ -67,6 +74,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['your'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q008',
     },
     {
       question: 'Mr. Thompson was ------ as the marketing director after a successful market development in Asia.',
@@ -74,6 +82,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['appointed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q009',
     },
     {
       question: 'The Irwin City Tourist Information Office is ------ located in the center of the city.',
@@ -81,6 +90,7 @@ export const Q001: Topic = {
       type: 'MCQs',
       correctAnswers: ['conveniently'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題001-010/#q010',
     },
   ],
 }

@@ -18,6 +18,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['costly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q241',
     },
     {
       question: 'Average temperatures in Vancouver in May were ------ low compared to a normal year.',
@@ -25,6 +26,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['relatively'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q242',
     },
     {
       question: 'The CEO ------ employees by providing a detailed explanation of the situation regarding the merger with Zell Printing Company.',
@@ -32,6 +34,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['reassured'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q243',
     },
     {
       question: 'The use of social media advertising has ------ increased the number of inquiries about new products.',
@@ -39,6 +42,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['significantly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q244',
     },
     {
       question: 'Training was provided to customer support staff to ------ replies to inquiries.',
@@ -46,6 +50,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['expedite'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q245',
     },
     {
       question: 'While Ms. Hernandez’s study was on the consumption habits of the younger generation, ------ was on the behavioral patterns of the elderly.',
@@ -53,6 +58,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['mine'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q246',
     },
     {
       question: '------ its unique technology, Lederer Systems has maintained its position as an industry leader for many years.',
@@ -60,6 +66,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['Thanks to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q247',
     },
     {
       question: 'Margaret Allen received the JDI Award ------ outstanding achievements in new drug development.',
@@ -67,6 +74,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['for'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q248',
     },
     {
       question: 'After today’s leadership training, please fill out the ------ located on the desk in the back of the room and submit it next time.',
@@ -74,6 +82,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['questionnaire'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q249',
     },
     {
       question: 'The audio equipment in conference room 103 was out of order, so conference room 201 was used ------.',
@@ -81,6 +90,7 @@ export const Q025: Topic = {
       type: 'MCQs',
       correctAnswers: ['instead'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題241-250/#q250',
     },
   ],
 }

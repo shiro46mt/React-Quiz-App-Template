@@ -18,6 +18,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['alike'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q011',
     },
     {
       question: '------ a recent government survey, annual income per household last year was about the same as it was five years ago.',
@@ -25,6 +26,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['According to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q012',
     },
     {
       question: 'Clarel Bookstore, located in the northern part of Wallaby City, will ------ host book signings for its members.',
@@ -32,6 +34,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['occasionally'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q013',
     },
     {
       question: 'A list of full-time job ------ at Canterbury Technology will be posted on the website tomorrow afternoon.',
@@ -39,6 +42,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['openings'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q014',
     },
     {
       question: 'The product developed by Orange Solutions was ------ in terms of design than that of Roseville System, but the price was about the same.',
@@ -46,6 +50,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['more sophisticated'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q015',
     },
     {
       question: '------ the tourist season begins, Trattoria Porte will extend its hours of operation until 23:00.',
@@ -53,6 +58,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['Once'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q016',
     },
     {
       question: '------ the inclement weather, many residents came to the concert venue to listen to the performance by the renowned pianist.',
@@ -60,6 +66,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['Despite'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q017',
     },
     {
       question: 'Graden Consulting attempted to recruit a senior data analyst internally, but ------ employees met the job requirements.',
@@ -67,6 +74,7 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['few'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q018',
     },
     {
       question: 'Due to poor sales, plans to close several branches in the Kansai region ------.',
@@ -74,13 +82,15 @@ export const Q002: Topic = {
       type: 'MCQs',
       correctAnswers: ['are being considered'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q019',
     },
     {
       question: 'With the implementation of a state-of-the-art customer management system, Taylor Bay Hotel has ------improved customer satisfaction.',
       choices: ['substantial', 'substantiate', 'substantiating', 'substantially'],
       type: 'MCQs',
-      correctAnswers: ['substantially（大いに）'],
+      correctAnswers: ['substantially'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題011-020/#q020',
     },
   ],
 }

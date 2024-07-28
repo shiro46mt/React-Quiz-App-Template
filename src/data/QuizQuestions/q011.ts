@@ -18,6 +18,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['he'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q101',
     },
     {
       question: 'First West Bank offers low-interest mortgages online to customers ------ the country.',
@@ -25,6 +26,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['throughout'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q102',
     },
     {
       question: 'Toyo Media Group has 15 branches in Asia, three of ------ are in Japan.',
@@ -32,6 +34,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['which'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q103',
     },
     {
       question: '------ your purchase has not arrived on the scheduled delivery date, please contact us using the form on our website.',
@@ -39,6 +42,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['In the event that'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q104',
     },
     {
       question: 'If you receive a refund, you must show ------ of purchase, such as a receipt.',
@@ -46,6 +50,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['proof'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q105',
     },
     {
       question: 'Siesna Construction worked ------ with Gessen Design Office on a project to install solar panels on the roof of City Hall.',
@@ -53,6 +58,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['closely'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q106',
     },
     {
       question: 'Machines purchased from us come with a free one-year repair ------ from the date of purchase.',
@@ -60,6 +66,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['warranty'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q107',
     },
     {
       question: 'Trattoria Gennaro has expanded its lunch menu and started a delivery service ------ increase sales.',
@@ -67,6 +74,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['in order to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q108',
     },
     {
       question: '------ the road repair work is completed, the traffic restrictions on Maple Street will be removed.',
@@ -74,6 +82,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['Once'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q109',
     },
     {
       question: 'Mr. Nigel’s proposed promotional plan seemed quite difficult, but he was able to accomplish it ------.',
@@ -81,6 +90,7 @@ export const Q011: Topic = {
       type: 'MCQs',
       correctAnswers: ['himself'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題101-110/#q110',
     },
   ],
 }

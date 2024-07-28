@@ -18,6 +18,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['others'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q281',
     },
     {
       question: 'All the information you need to properly maintain your new machine ------ in the instruction manual.',
@@ -25,6 +26,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['is provided'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q282',
     },
     {
       question: 'To ensure high production quality, ------ maintenance of the machines is very important.',
@@ -32,6 +34,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['periodic'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q283',
     },
     {
       question: 'The management of Croyell Manufacturing is very pleased with the company’s steady ------ and increasing revenues.',
@@ -39,6 +42,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['growth'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q284',
     },
     {
       question: 'This year’s annual meeting was ------ well attended that we need to consider changing to a venue with a larger capacity next year.',
@@ -46,6 +50,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['so'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q285',
     },
     {
       question: 'The results of this customer satisfaction survey were almost consistent with past ------.',
@@ -53,6 +58,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['findings'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q286',
     },
     {
       question: 'The main ------ of this notice is to ensure that all employees make efficient use of resources in the workplace.',
@@ -60,6 +66,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['objective'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q287',
     },
     {
       question: 'More ------ ways to acquire new clients will be discussed at tomorrow’s sales meeting.',
@@ -67,6 +74,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['effective'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q288',
     },
     {
       question: 'Ms. Alonso demonstrated exceptional solution skills when ------ with difficulties.',
@@ -74,6 +82,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['confronted'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q289',
     },
     {
       question: 'You must sign up three days in advance at the ------ to receive individual counseling on dietary issues.',
@@ -81,6 +90,7 @@ export const Q029: Topic = {
       type: 'MCQs',
       correctAnswers: ['latest'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題281-290/#q290',
     },
   ],
 }

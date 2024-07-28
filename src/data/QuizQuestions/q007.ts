@@ -18,6 +18,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['recommendation'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q061',
     },
     {
       question: 'Refreshments, including sweets and beverages, ------ at Hansen’s retirement party next Friday.',
@@ -25,6 +26,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['will be served'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q062',
     },
     {
       question: 'Thanks to Ms. Johnson’s ------ donation, the City of Monterey was able to renovate the civic center last year.',
@@ -32,6 +34,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['generous'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q063',
     },
     {
       question: '------ some people focus on career advancement, others place more emphasis on enjoying their leisure time.',
@@ -39,6 +42,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['While'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q064',
     },
     {
       question: 'A proposal to relocate the civic library to the city center was ------ approved by the city council.',
@@ -46,6 +50,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['unanimously'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q065',
     },
     {
       question: 'Sophia Art Gallery, located in the Queens district, is easily ------ by public transportation.',
@@ -53,6 +58,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['accessible'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q066',
     },
     {
       question: 'Heavy rains last night hit the northwestern part of that town, ------ the river to flood.',
@@ -60,6 +66,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['causing'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q067',
     },
     {
       question: 'Any questions regarding ------ leave should be directed to Mr. Dembo in the human resources department.',
@@ -67,6 +74,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['paid'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q068',
     },
     {
       question: '------ part-time employee is required to enter working hours into the attendance system every day.　',
@@ -74,6 +82,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['Each'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q069',
     },
     {
       question: 'As a result of streamlining its distribution channels, Amanda International Foods has ------ the big players in the food industry.',
@@ -81,6 +90,7 @@ export const Q007: Topic = {
       type: 'MCQs',
       correctAnswers: ['caught up with'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題061-070/#q070',
     },
   ],
 }

@@ -18,6 +18,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['as well as'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q051',
     },
     {
       question: 'Mr. Ajay’s extensive expertise in legal matters makes him the ------ person to lead the legal department.',
@@ -25,6 +26,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['ideal'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q052',
     },
     {
       question: 'Mountain View Inn operates a ------ shuttle to the airport as one of its services for guests.',
@@ -32,6 +34,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['complimentary'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q053',
     },
     {
       question: 'Ms. Watanabe ------ a promotion given her sales performance over the past two years.',
@@ -39,6 +42,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['deserves'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q054',
     },
     {
       question: 'Allen & Wolff LLP provides a ------ range of legal services to multinational companies.',
@@ -46,6 +50,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['wide'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q055',
     },
     {
       question: '------ to the Baron Art Museum is free for children under 6 years old and seniors over 70 years old.',
@@ -53,6 +58,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['Admission'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q056',
     },
     {
       question: 'Office cleaning services by Kambil Corporation in Detroit are ------ priced, so many local businesses are using them.',
@@ -60,6 +66,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['reasonably'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q057',
     },
     {
       question: 'Since its foundation, Works Uniforms has ------ in the sale of work clothing, footwear, and protective equipment for construction sites.',
@@ -67,6 +74,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['specialized'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q058',
     },
     {
       question: 'The sales meeting at the Hong Kong branch will be held tomorrow ------ at 10:00 a.m.',
@@ -74,6 +82,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['promptly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q059',
     },
     {
       question: 'Green Forest Outdoors offers refunds on unused items ------ 7 days of purchase.',
@@ -81,6 +90,7 @@ export const Q006: Topic = {
       type: 'MCQs',
       correctAnswers: ['within'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題051-060/#q060',
     },
   ],
 }

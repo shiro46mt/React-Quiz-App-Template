@@ -18,6 +18,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['attractions'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q231',
     },
     {
       question: 'To ------ to our Budget Travel Magazine, you can sign up either by mail or on our website.',
@@ -25,6 +26,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['subscribe'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q232',
     },
     {
       question: 'Lucas Programing school offers a wide ------ of programming courses for beginners, including children.',
@@ -32,6 +34,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['variety'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q233',
     },
     {
       question: 'Ms. Cheng and Ms. Matsui were asked to ------ the cause of yesterday’s machine malfunction.',
@@ -39,6 +42,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['examine'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q234',
     },
     {
       question: '------ hundreds of medical professionals at a convention in Seoul last week.',
@@ -46,6 +50,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['There were'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q235',
     },
     {
       question: 'Ms. Lee’s extensive ------ and sufficient work experience make her the perfect candidate for the position.',
@@ -53,6 +58,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['expertise'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q236',
     },
     {
       question: 'Please submit your summer vacation schedule by the end of this week ------ your preferred vacation dates can be approved.',
@@ -60,6 +66,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['so that'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q237',
     },
     {
       question: 'The latest survey report indicates that demand for existing homes is a bit ------ than expected.',
@@ -67,6 +74,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['lower'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q238',
     },
     {
       question: 'As an apology for this delivery delay, we would like to ------ shipping charges for your next order.',
@@ -74,6 +82,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['waive'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q239',
     },
     {
       question: 'Mr. Toyota in the public relations department has a wealth of ideas ------ a great ability to put them into action.',
@@ -81,6 +90,7 @@ export const Q024: Topic = {
       type: 'MCQs',
       correctAnswers: ['in addition to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題231-240/#q240',
     },
   ],
 }

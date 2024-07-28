@@ -18,6 +18,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['hers'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q041',
     },
     {
       question: 'Most customers ------ have purchased the tablets developed by Protech are very satisfied with the long-lasting batteries.',
@@ -25,6 +26,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['who'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q042',
     },
     {
       question: 'Visitors to Haswell Systems must ------ identification at the security desk and receive a visitor badge.',
@@ -32,6 +34,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['present'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q043',
     },
     {
       question: 'In ------ to requests from local residents, bike lanes have been built on Cooper Street.',
@@ -39,6 +42,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['response'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q044',
     },
     {
       question: 'By expanding into the Southeast Asian market, Telco Creative has been able to more than double its sales ------the past five years.',
@@ -46,6 +50,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['over'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q045',
     },
     {
       question: 'To be ------ to apply for that laboratory technician position, you must have at least three years of work experience.',
@@ -53,6 +58,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['eligible'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q046',
     },
     {
       question: 'Digital images such as photos and illustrations in this website may not be used ------ permission.',
@@ -60,6 +66,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['without'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q047',
     },
     {
       question: '------ who pass the first round of online interviews will be invited for an interview at the company’s headquarters.',
@@ -67,6 +74,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['Applicants'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q048',
     },
     {
       question: 'Questions regarding the new reimbursement system should be ------ to Mr. Luis in the accounting department.',
@@ -74,6 +82,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['directed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q049',
     },
     {
       question: 'Tickets for Carlin Theater are ------ online three months prior to the performance.',
@@ -81,6 +90,7 @@ export const Q005: Topic = {
       type: 'MCQs',
       correctAnswers: ['available'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題041-050/#q050',
     },
   ],
 }

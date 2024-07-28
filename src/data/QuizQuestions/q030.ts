@@ -18,6 +18,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['distributed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q291',
     },
     {
       question: 'At least three years of ------ experience is required to apply for the welder position listed on the job posting site.',
@@ -25,6 +26,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['professional'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q292',
     },
     {
       question: 'After a thorough review, ------ minor changes were made to the building purchase agreement.',
@@ -32,6 +34,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['a few'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q293',
     },
     {
       question: 'Last year the Hudson Art Museum ------ a quarterly newsletter to its members.',
@@ -39,6 +42,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['published'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q294',
     },
     {
       question: '------ the renovation of the second floor has been completed, the Human Resources Department can return to its original workplace.',
@@ -46,6 +50,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['Now that'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q295',
     },
     {
       question: 'New employees in the Quality Control Department will be given their ------ by their immediate supervisors next Monday.',
@@ -53,6 +58,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['assignment'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q296',
     },
     {
       question: 'The deadline for submitting proposals for new construction in the Stanley district has been ------ by one week.',
@@ -60,6 +66,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['extended'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q297',
     },
     {
       question: '------ those who pass the first round of selection will receive an email with instructions for the second round.',
@@ -67,6 +74,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['Only'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q298',
     },
     {
       question: 'If you do not renew your fitness center membership, it will ------ on June 30.',
@@ -74,6 +82,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['expire'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q299',
     },
     {
       question: 'Only auto parts that have passed ------ tests will be shipped from this factory.',
@@ -81,6 +90,7 @@ export const Q030: Topic = {
       type: 'MCQs',
       correctAnswers: ['rigorous'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題291-300/#q300',
     },
   ],
 }

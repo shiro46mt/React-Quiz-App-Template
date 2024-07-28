@@ -18,6 +18,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['eligible'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q221',
     },
     {
       question: 'Whitfield Legal Office has spent the last two months looking for a place to move its offices, but found ------ properties that met its criteria.',
@@ -25,6 +26,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['few'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q222',
     },
     {
       question: 'Ms. Barton was asked by her supervisor to submit a ------ of yesterday’s meeting with a business partner.',
@@ -32,6 +34,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['summary'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q223',
     },
     {
       question: 'If the plan had been thoroughly reviewed with his colleagues, Mr. Batista would not ------ with such difficulties.',
@@ -39,6 +42,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['have been faced'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q224',
     },
     {
       question: 'Springford Technologies has developed an ------ method and automated testing system.',
@@ -46,6 +50,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['efficient'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q225',
     },
     {
       question: 'System problems that have been occurring since last week need to be ------ urgently.',
@@ -53,6 +58,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['addressed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q226',
     },
     {
       question: 'At Amador Bicycle Shop, sales of bicycle parts rose ------ compared to the previous quarter.',
@@ -60,6 +66,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['slightly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q227',
     },
     {
       question: 'The city plans to host environmental events to ------ awareness of the new resource conservation program.',
@@ -67,6 +74,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['raise'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q228',
     },
     {
       question: 'If you are late returning a rental car for any reason, ------ sure to call the office as soon as possible.',
@@ -74,6 +82,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['make'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q229',
     },
     {
       question: 'To participate in this weekend’s Adventure Tour, you must be ------ 12 years old.',
@@ -81,6 +90,7 @@ export const Q023: Topic = {
       type: 'MCQs',
       correctAnswers: ['at least'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題221-230/#q230',
     },
   ],
 }

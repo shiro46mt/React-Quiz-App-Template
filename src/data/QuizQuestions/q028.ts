@@ -18,6 +18,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['so that'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q271',
     },
     {
       question: 'Mougey Corporation ------ a new personnel system for all employees by the end of this fall.',
@@ -25,6 +26,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['will be introducing'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q272',
     },
     {
       question: '------ the five employees eligible for promotion, Ms. Oswald is seen as the most promising.',
@@ -32,6 +34,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['Of'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q273',
     },
     {
       question: '------ manufacturing processes have resulted in a 30% increase in productivity.',
@@ -39,6 +42,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['Improved'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q274',
     },
     {
       question: 'It is difficult to determine the cost of production because the prices of raw materials are ------ changing.',
@@ -46,6 +50,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['constantly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q275',
     },
     {
       question: 'This banquet hall can ------ up to 200 people, and reservations can be made six months prior to the event.',
@@ -53,6 +58,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['accommodate'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q276',
     },
     {
       question: '------ rooms in our hotel have Wi-Fi access and are equipped with a charger for smartphones.',
@@ -60,6 +66,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['All'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q277',
     },
     {
       question: 'Riverdale Fresh Market sells locally grown produce at ------ prices.',
@@ -67,6 +74,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['reasonable'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q278',
     },
     {
       question: 'Advances in communication technology allow workers to work from home ------.',
@@ -74,6 +82,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['more easily'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q279',
     },
     {
       question: '------ being lightweight, this laptop has a longer-lasting battery than other models.',
@@ -81,6 +90,7 @@ export const Q028: Topic = {
       type: 'MCQs',
       correctAnswers: ['Besides'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題271-280/#q280',
     },
   ],
 }

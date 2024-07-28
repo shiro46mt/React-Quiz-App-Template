@@ -18,6 +18,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['to watch'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q141',
     },
     {
       question: 'Ms. Okada had to ------ the job offer from KAOA Motors because she had already decided to work for another company.',
@@ -25,6 +26,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['decline'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q142',
     },
     {
       question: '------ the books Ｍr. Kamau ordered arrive at the store, please give him a call.',
@@ -32,6 +34,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['As soon as'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q143',
     },
     {
       question: 'If you are looking for ------ information on bicycle repair, please check out the videos on the repair related pages of our website.',
@@ -39,6 +42,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['helpful'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q144',
     },
     {
       question: 'The Asian Furniture Expo will be held ------ the Tokyo Bay Convention Center from June 11 to 15.',
@@ -46,6 +50,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['at'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q145',
     },
     {
       question: 'Mr. Valdez created the new product concept after a thorough ------ of market research data.',
@@ -53,6 +58,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['analysis'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q146',
     },
     {
       question: 'Podell Electronics is trying to gather as ------ customer comments as possible for new product development.',
@@ -60,6 +66,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['many'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q147',
     },
     {
       question: 'Our pharmacy will be closed tomorrow, so please bring the ------ from your doctor after the day after tomorrow.',
@@ -67,6 +74,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['prescription'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q148',
     },
     {
       question: 'Please make sure that the audio equipment in Conference Room 203 is working ------ for tomorrow’s presentation.',
@@ -74,6 +82,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['properly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q149',
     },
     {
       question: 'The results will be compiled ------ as one month has already passed since the survey was mailed.',
@@ -81,6 +90,7 @@ export const Q015: Topic = {
       type: 'MCQs',
       correctAnswers: ['shortly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題141-150/#q150',
     },
   ],
 }

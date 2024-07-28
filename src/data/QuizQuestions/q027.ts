@@ -18,6 +18,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['quickly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q261',
     },
     {
       question: '------ the congested traffic in the center of the city, we managed to make it to our client meeting on time.',
@@ -25,6 +26,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['Despite'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q262',
     },
     {
       question: 'Upon ------, materials on redevelopment projects in the Pura area can be made available to the public.',
@@ -32,6 +34,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['request'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q263',
     },
     {
       question: 'Sapporo is the largest city in Hokkaido, ------ population is about 2 million and steadily increasing.',
@@ -39,6 +42,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['whose'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q264',
     },
     {
       question: 'Materials ------ for painting classes must be purchased and prepared in advance.',
@@ -46,6 +50,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['necessary'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q265',
     },
     {
       question: 'Renowned consultant Emilio Gomez ------ will directly instruct participants in the marketing workshop.',
@@ -53,6 +58,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['himself'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q266',
     },
     {
       question: 'If it had not rained, the outdoor performances by local artists would not ------.',
@@ -60,6 +66,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['have been postponed'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q267',
     },
     {
       question: '------ increasing the sales staff, we were able to improve sales by approximately 20% this year.',
@@ -67,6 +74,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['As a result of'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q268',
     },
     {
       question: 'Sratus Technology’s batteries sell well because they have a ------ lifespan than competing products.',
@@ -74,6 +82,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['longer'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q269',
     },
     {
       question: 'Greer Travel Agency specializes in planning trips ------ to each individual’s needs.',
@@ -81,6 +90,7 @@ export const Q027: Topic = {
       type: 'MCQs',
       correctAnswers: ['tailored'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題261-270/#q270',
     },
   ],
 }

@@ -18,6 +18,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['resulted'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q191',
     },
     {
       question: '------ install a bus stop on the sidewalk, an application for a building permit must be submitted to the city.',
@@ -25,6 +26,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['In order to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q192',
     },
     {
       question: 'The newly installed labeling machine can apply stickers to products twice as ------ as the previous one.',
@@ -32,6 +34,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['quickly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q193',
     },
     {
       question: 'Kwon Market Research conducted ------ research to develop new products for clients in the food industry.',
@@ -39,6 +42,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['extensive'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q194',
     },
     {
       question: 'The Mogen Modern Museum requires that the use of cell phones ------ to designated areas within the museum.',
@@ -46,6 +50,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['be limited'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q195',
     },
     {
       question: 'According to today’s newspaper, ------ 3,000 residents, including adults and children, participated in the sporting event yesterday.',
@@ -53,6 +58,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['nearly'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q196',
     },
     {
       question: 'Our team is ------ surveying visitors to the event that will be held this weekend at Riverside Park.',
@@ -60,6 +66,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['in charge of'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q197',
     },
     {
       question: 'Employees who have been assigned to work overseas can receive online ------ to learn the local language.',
@@ -67,6 +74,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['tutorials'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q198',
     },
     {
       question: 'The number of people working for companies ------ to the automotive industry in that district has increased in recent years.',
@@ -74,6 +82,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['related'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q199',
     },
     {
       question: 'New employees at Wagner Corporation are invited ------ a welcome party held on the second floor of its headquarters.',
@@ -81,6 +90,7 @@ export const Q020: Topic = {
       type: 'MCQs',
       correctAnswers: ['to attend'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題191-200/#q200',
     },
   ],
 }

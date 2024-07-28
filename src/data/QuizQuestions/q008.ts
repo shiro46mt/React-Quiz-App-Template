@@ -18,6 +18,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['Should'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q071',
     },
     {
       question: 'Three letters of ------ are required to apply for the position of accounting manager at Drexel Pharmaceutical.',
@@ -25,6 +26,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['reference'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q072',
     },
     {
       question: '------ who have registered for a subscription to the magazine will receive the latest issue of the magazine within a week.',
@@ -32,6 +34,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['Those'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q073',
     },
     {
       question: 'The development team for the EX01 model has found it ------ to complete that model by September.',
@@ -39,6 +42,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['difficult'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q074',
     },
     {
       question: 'Sandeep Technologies is ------ to recycling programs as one of its environmental initiatives.',
@@ -46,6 +50,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['dedicated'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q075',
     },
     {
       question: 'It is advisable to prepare answers to ------ possible questions at the upcoming workshop.',
@@ -53,6 +58,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['all'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q076',
     },
     {
       question: 'The City of Orange Bay was able to successfully complete a musical event featuring local artists ------ a lack of funding.',
@@ -60,6 +66,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['despite'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q077',
     },
     {
       question: 'Climbing & Gear’s camping tents are lighter and more durable than ------ of its competitors.',
@@ -67,6 +74,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['those'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q078',
     },
     {
       question: 'By implementing the marketing strategy ------ by Mr. Adams, the theme park has seen a significant increase in the number of visitors.',
@@ -74,6 +82,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['devised'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q079',
     },
     {
       question: 'Ms. Whitfield ------ several errors in the inventory control manual and reported them to her supervisor.',
@@ -81,6 +90,7 @@ export const Q008: Topic = {
       type: 'MCQs',
       correctAnswers: ['detected'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題071-080/#q080',
     },
   ],
 }

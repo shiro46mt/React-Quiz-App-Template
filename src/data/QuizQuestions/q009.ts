@@ -18,6 +18,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['Additional'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q081',
     },
     {
       question: 'By the time Mr. Chang retires next year, he ------ for Delvan Corporation as a mechanical engineer for 15 years.',
@@ -25,6 +26,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['will have worked'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q082',
     },
     {
       question: '------ the human resources director, it seems to take more than three days to look over all the applications.',
@@ -32,6 +34,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['According to'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q083',
     },
     {
       question: 'The mayor thanked his supporters for their ------ comments at yesterday’s press conference.',
@@ -39,6 +42,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['encouraging'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q084',
     },
     {
       question: '------ an annual event, the Fuji Live Aid Festival is now held every two years.',
@@ -46,6 +50,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['Originally'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q085',
     },
     {
       question: 'Ms. Bhat joined Campion Consulting after earning a master’s ------ in business administration in the UK.',
@@ -53,6 +58,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['degree'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q086',
     },
     {
       question: 'If you have forgotten your password, enter ------ email address here to send it to us.',
@@ -60,6 +66,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['your'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q087',
     },
     {
       question: 'The factory’s labor management manual clearly states that minimum safety standards must be met, ------ much it costs.',
@@ -67,6 +74,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['however'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q088',
     },
     {
       question: '------ Ms. Darville nor Mr. Nichols has the registered dietitian license required for the position.',
@@ -74,6 +82,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['Neither'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q089',
     },
     {
       question: 'Mr. Davies has already worked at our plant for 15 years and is ------ the most skilled welders.',
@@ -81,6 +90,7 @@ export const Q009: Topic = {
       type: 'MCQs',
       correctAnswers: ['among'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題081-090/#q090',
     },
   ],
 }

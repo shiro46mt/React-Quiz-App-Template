@@ -18,6 +18,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['diverse'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q131',
     },
     {
       question: 'Please be very careful when disclosing our ------ information to outside parties.',
@@ -25,6 +26,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['confidential'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q132',
     },
     {
       question: 'For a ------ time only, Abilos Fitness Gym is offering a free one-month trial for new members.',
@@ -32,6 +34,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['limited'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q133',
     },
     {
       question: 'Monday is the most convenient day for ------ to hold our department meetings.',
@@ -39,6 +42,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['us'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q134',
     },
     {
       question: 'Please be sure to follow the attached ------ when assembling our furniture.',
@@ -46,6 +50,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['instructions'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q135',
     },
     {
       question: 'At Rosen Technologies, rigorous testing was repeatedly conducted to improve the ------ of the products.',
@@ -53,6 +58,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['reliability'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q136',
     },
     {
       question: 'The North Hilltop Hotel where we are staying this weekend is located on a hill ------ the lake.',
@@ -60,6 +66,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['overlooking'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q137',
     },
     {
       question: 'Many real estate companies are ------ using Internet advertisements to obtain rental contracts for apartments.',
@@ -67,6 +74,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['actively'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q138',
     },
     {
       question: 'If a new bridge ------ in the northwest part of the city, it would have reduced traffic congestion during the commute.',
@@ -74,6 +82,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['had been built'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q139',
     },
     {
       question: 'In recent years, interest in ------ energy sources such as solar and wind power has increased.',
@@ -81,6 +90,7 @@ export const Q014: Topic = {
       type: 'MCQs',
       correctAnswers: ['renewable'],
       score: 1,
+      commentUrl: 'https://get-toeic.com/toeic-part5-練習問題131-140/#q140',
     },
   ],
 }
